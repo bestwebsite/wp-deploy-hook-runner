@@ -48,7 +48,7 @@ wp deploy-hook token --regenerate
 
 ## Author
 Built and maintained by **Best Website** — https://bestwebsite.com  
-Contact: james@bestwebsite.com
+Contact: support@bestwebsite.com
 
 ## License
 GPL‑2.0 or later
